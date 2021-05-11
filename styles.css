@@ -1,0 +1,46 @@
+/*
+Cody McHardy
+5/5/21
+Bootstrap B&B Assignment
+contact.html
+*/
+body{
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+h1{
+    text-align: center;
+    color: rgb(45, 197, 197);
+}
+h2{
+    text-align: center;
+    color: rgb(45, 197, 197);
+}
+nav button{
+    margin: 0px 100px 0px 100px;
+}
+nav img{
+    margin-right: 6px;
+}
+#homeButton{
+    background-color: rgb(45, 197, 197);
+}
+#homeButton img{
+    filter: invert(1);
+}
+#contactButton:hover{
+    background-color: rgb(45, 197, 197);
+}
+
+#contactButton img{
+    filter: invert(1);
+}
+#contactButton:hover a{
+    filter: invert(1);
+}
+#homeButton:hover a{
+    filter: invert(1);
+}
+#mainCarousel,p,h1,h2{
+    margin: 0 auto;
+    width: 65%;
+}
